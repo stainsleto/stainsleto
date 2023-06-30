@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @stains_leto
-- 🌱 I’m currently learning ReactJs
-- 📫 Reach me on Instagram - stains_leto
-- <!-- - 👀 I’m interested in Backend Development -->
+- 🌱 Aspiring Full-Stack Developer
+- 🔥 Working on Frontend Dev using ReactJs
+- 📫 Reach me on Linkedin - [stains_leto](https://www.linkedin.com/in/stains-leto/)
+- <!-- - 👀 Aspiring FullStack Developer -->
 
 
