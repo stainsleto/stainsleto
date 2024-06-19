@@ -29,21 +29,14 @@
 
 ### 🔨 Languages and Tools:
 
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/ts.png?raw=true"></code>
-
-<code><img height="20" alt="ReactJs" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/react.png?raw=true"></code>
-
-<code><img height="20" alt="Vite" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/vite.png?raw=true"></code>
-
-<code><img height="20" alt="tailwindcss" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/tailwindcss.png?raw=true"></code>
-
-<code><img height="20" alt="Recoil" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/recoil.png?raw=true"></code>
-
-<code><img height="20" alt="expresJS" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/express.png?raw=true"></code>
-
-<code><img height="20" alt="mongoDB" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/mongo.png?raw=true"></code>
-
-<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/git.png?raw=true"></code>
+<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/ts.png?raw=true"></code>
+<code><img height="40" alt="ReactJs" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/react.png?raw=true"></code>
+<code><img height="40" alt="Vite" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/vite.png?raw=true"></code>
+<code><img height="40" alt="tailwindcss" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/tailwindcss.png?raw=true"></code>
+<code><img height="40" alt="Recoil" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/recoil.png?raw=true"></code>
+<code><img height="40" alt="expresJS" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/express.png?raw=true"></code>
+<code><img height="40" alt="mongoDB" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/mongo.png?raw=true"></code>
+<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/git.png?raw=true"></code>
 
  
 
@@ -75,8 +68,8 @@
 <br />
 
 <a href="https://twitter.com/letostains">
-  <img align="right" alt="Stains leto | Twitter" width="21px" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/x.png?raw=true" />
+  <img align="right" alt="Stains leto | Twitter" width="50" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/x.png?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/stains-leto">
-  <img align="right" alt="Stains leto | linkedin" width="20px" src="https://raw.githubusercontent.com/stainsleto/stainsleto/blob/main/assets/linkedin.png?raw=true" />
+  <img align="right" alt="Stains leto | linkedin" width="160" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/linkedin.png?raw=true" />
 </a>
