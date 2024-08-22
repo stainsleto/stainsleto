@@ -29,7 +29,7 @@
 
 ### 🔨 Languages and Tools:
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,prisma,mongodb,linux,postgres,git)]
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,prisma,mongodb,linux,postgres,git)
 
 <table>
   <tr>
