@@ -29,7 +29,7 @@
 
 ### 🔨 Languages and Tools:
 
- ![Languages and Tools](https://skillicons.dev/icons?i=naxtjs,react,typescript,javascript,prisma,mongodb,postgres,expressjs,linux,docker,git,github,js,html,css,obsidian,vscode,notion,slack,aws,postman)
+ ![Languages and Tools](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,prisma,mongodb,postgres,expressjs,linux,docker,git,github,js,html,css,obsidian,vscode,notion,aws,postman)
 
 <table>
   <tr>
