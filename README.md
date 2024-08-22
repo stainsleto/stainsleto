@@ -22,9 +22,6 @@
 
  ![Languages and Tools](https://skillicons.dev/icons?i=nextjs,react,expressjs,prisma,mongodb,postgres,typescript,linux,docker,git,github,js,html,css,obsidian,vscode,notion,aws,postman)
 
-<table>
-  <tr>
-    <td align="left">
       
 ### My Absolute Favorites:
 
@@ -32,25 +29,7 @@
 - 📰 &nbsp; Reading books.
 - 🍂 &nbsp; Gardening.
 - 🍕 &nbsp; Attending Meetups & Tech Events.
-
-  
-</td>
-
-
-[![Socials](https://skillicons.dev/icons?i=twitter)](https://x.com/LetoStains)
-
-
-</tr>
-</table>
-
-
-
 <br />
 <br />
+[![Socials](https://skillicons.dev/icons?i=x)](https://x.com/LetoStains)
 
-<a href="https://twitter.com/letostains">
-  <img align="right" alt="Stains leto | Twitter" width="50" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/x.png?raw=true" />
-</a>
-<a href="https://www.linkedin.com/in/stains-leto">
-  <img align="right" alt="Stains leto | linkedin" width="160" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/linkedin.png?raw=true" />
-</a>
