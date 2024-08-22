@@ -8,11 +8,11 @@
  ### About Me:
 
   - 💼 MERN Engineer <br>
-  - 🏗️ Getting Started With TypeScript <br> 
-  - ⚒️ Building Paytm using MERN <br>
+  - 🏗️ Working With TypeScript <br> 
+  - ⚒️ Building medium using MERN, Recoil and Prisma <br>
   - 📈 Built RealEstate Marketplace with price prediction <br>
   - ❤️ Love fixing problem with code <br>
-  - 💬 Ask me about anything [LinkedIn](https://www.linkedin.com/in/stains-leto/)
+  - 💬 Ask me about anything [X](https://www.x.com/LetoStains)
     
   ![stainsleto Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
