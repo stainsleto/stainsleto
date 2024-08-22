@@ -19,7 +19,7 @@
     
      </td>
     <td align="right">
-      ![<stainsleto>'s Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+      ![stainsleto Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     </td>
   </tr>
 </table>
