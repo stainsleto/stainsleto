@@ -31,5 +31,6 @@
 - 🍕 &nbsp; Attending Meetups & Tech Events.
 <br />
 <br />
-[![Socials](https://skillicons.dev/icons?i=x)](https://x.com/LetoStains)
+[![Socials](https://skillicons.dev/icons?i=twitter)](https://x.com/LetoStains)
+[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stains-leto/)
 
