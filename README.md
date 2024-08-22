@@ -36,9 +36,9 @@
   
 </td>
 
-<td align="right>
-<a href="https://github.com/stainsleto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stainsleto&layout=compact&theme=buefy&hide_border=true" /></a>
-</td>
+
+[![Socials](https://skillicons.dev/icons?i=twitter)](https://x.com/LetoStains)
+
 
 </tr>
 </table>
