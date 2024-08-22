@@ -4,10 +4,7 @@
 
 ***Learning different tech's from 100x Devs cohort*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<table>
-  <tr>
-    <td align="left">
-      
+
  ### About Me:
 
   - 💼 MERN Engineer <br>
@@ -17,12 +14,8 @@
   - ❤️ Love fixing problem with code <br>
   - 💬 Ask me about anything [LinkedIn](https://www.linkedin.com/in/stains-leto/)
     
-     </td>
-    <td align="right">
-      ![stainsleto Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    </td>
-  </tr>
-</table>
+  ![stainsleto Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ### 🔨 Languages and Tools:
