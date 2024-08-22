@@ -19,9 +19,7 @@
     
      </td>
     <td align="right">
-      <a href="https://github.com/stainsleto/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=stainsleto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stains github stats" />
-      </a>
+      ![<stainsleto>'s Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     </td>
   </tr>
 </table>
