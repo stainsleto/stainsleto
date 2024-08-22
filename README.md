@@ -33,8 +33,8 @@
 <br />
 <div align="right">
  
+[![linkedin Social](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/stains-leto/)
 [![Twitter Social](https://skillicons.dev/icons?i=twitter)](https://x.com/LetoStains)
-[![Socials](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/stains-leto/)
 
 </div>
 
