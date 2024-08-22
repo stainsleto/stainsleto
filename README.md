@@ -29,17 +29,7 @@
 
 ### 🔨 Languages and Tools:
 
-<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/ts.png?raw=true"></code>
-<code><img height="40" alt="ReactJs" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/react.png?raw=true"></code>
-<code><img height="40" alt="Vite" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/vite.png?raw=true"></code>
-<code><img height="40" alt="tailwindcss" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/tailwindcss.png?raw=true"></code>
-<code><img height="40" alt="Recoil" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/recoil.png?raw=true"></code>
-<code><img height="40" alt="expresJS" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/express.png?raw=true"></code>
-<code><img height="40" alt="mongoDB" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/mongo.png?raw=true"></code>
-<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/stainsleto/stainsleto/main/assets/git.png?raw=true"></code>
-
- 
-
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,prisma,mongodb,linux,postgres,git)](https://skillicons.dev)
 
 <table>
   <tr>
