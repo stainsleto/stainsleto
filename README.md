@@ -20,7 +20,7 @@
 
 ### 🔨 Languages and Tools:
 
- ![Languages and Tools](https://skillicons.dev/icons?i=nextjs,react,expressjs,prisma,mongodb,postgres,typescript,linux,docker,git,github,js,html,css,obsidian,vscode,notion,aws,postman)
+ ![Languages and Tools](https://skillicons.dev/icons?i=nextjs,react,redux,expressjs,prisma,mongodb,postgres,typescript,linux,docker,git,github,js,html,css,obsidian,vscode,notion,aws,postman)
 
       
 ### My Absolute Favorites:
