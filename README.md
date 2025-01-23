@@ -8,7 +8,7 @@
  ### About Me:
 
   - 💼 FullStack Engineer at stratforge <br>
-  - 🏗️ Working With MERN and Nextjs <br> 
+  - 🏗️ Crafting With MERN and Nextjs <br> 
   - ⚒️ Building a SAAS using Nextjs, Redux and Prisma <br>
   - 📈 Built RealEstate Marketplace with price prediction, Medium clone using MERN <br>
   - ❤️ Love fixing problem with code <br>
