@@ -7,10 +7,10 @@
 
  ### About Me:
 
-  - 💼 MERN Engineer <br>
-  - 🏗️ Working With TypeScript <br> 
-  - ⚒️ Building medium using MERN, Recoil and Prisma <br>
-  - 📈 Built RealEstate Marketplace with price prediction <br>
+  - 💼 FullStack Engineer at stratforge <br>
+  - 🏗️ Working With MERN and Nextjs <br> 
+  - ⚒️ Building a SAAS using Nextjs, Redux and Prisma <br>
+  - 📈 Built RealEstate Marketplace with price prediction, Medium clone using MERN <br>
   - ❤️ Love fixing problem with code <br>
   - 💬 Ask me about anything [X](https://www.x.com/LetoStains)
     
