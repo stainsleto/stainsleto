@@ -8,10 +8,9 @@
  ### About Me:
 
   - 💼 FullStack Engineer at stratforge <br>
-  - 🏗️ Crafting With MERN and Nextjs <br> 
-  - ⚒️ Building a SAAS using Nextjs, Redux and Prisma <br>
-  - 📈 Built RealEstate Marketplace with price prediction, Medium clone using MERN <br>
-  - ❤️ Love fixing problem with code <br>
+  - 🏗️ Crafting With Nextjs, MERN, Prisma and Go <br> 
+  - 👔 Interested in corporate finance and web3 <br>
+  - 📈 Passionate to solve problems that creates mutual value<br>
   - 💬 Ask me about anything [X](https://www.x.com/LetoStains)
     
   ![stainsleto Stats](https://github-readme-stats.vercel.app/api?username=stainsleto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
