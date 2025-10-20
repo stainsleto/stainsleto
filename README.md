@@ -7,7 +7,7 @@
 
  ### About Me:
 
-  - 💼 FullStack Engineer at stratforge <br>
+  - 💼 FullStack Engineer at Stratforge <br>
   - 🏗️ Crafting With Nextjs, MERN, Prisma and Go <br> 
   - 👔 Interested in corporate finance and web3 <br>
   - 📈 Passionate to solve problems that creates mutual value<br>
